@@ -1,0 +1,17 @@
+{
+  "name": "command_line_dictionary",
+  "version": "1.0.0",
+  "description": "a command based dictionary that show meaning of a searched word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "md asif rahman",
+  "license": "MIT",
+  "bin": {
+    "cldict": "./bin/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
