@@ -1,5 +1,5 @@
 {
-  "name": "command_line_dictionary",
+  "name": "node-cli-dictionary",
   "version": "1.0.0",
   "description": "a command based dictionary that show meaning of a searched word",
   "main": "index.js",
